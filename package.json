@@ -1,0 +1,23 @@
+{
+  "name": "strapi",
+  "version": "1.0.0",
+  "description": "<a href=\"https://dash.elest.io/deploy?source=cicd&social=dockerCompose&url=https://github.com/elestio-examples/strapi\"><img src=\"deploy-on-elestio.png\" alt=\"Deploy on Elest.io\" width=\"180px\" /></a>",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "strapi start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elestio-examples/strapi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/elestio-examples/strapi/issues"
+  },
+  "homepage": "https://github.com/elestio-examples/strapi#readme"
+}
